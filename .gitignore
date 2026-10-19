@@ -1,0 +1,7 @@
+# Compiled binary
+*.exe
+
+# OS / editor
+Thumbs.db
+desktop.ini
+.vscode/
